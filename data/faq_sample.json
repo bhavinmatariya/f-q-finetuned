@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is comprehensive auto insurance coverage?",
+        "answer": "Comprehensive auto insurance coverage protects your vehicle against damage from non-collision events such as theft, vandalism, fire, natural disasters, falling objects, and animal strikes. It typically covers the actual cash value of your vehicle minus your deductible."
+    },
+    {
+        "question": "How do I file a claim for property damage?",
+        "answer": "To file a property damage claim, contact your insurance company immediately, document the damage with photos, obtain a police report if applicable, keep receipts for temporary repairs, and cooperate with the claims adjuster during the investigation process."
+    },
+    {
+        "question": "What factors affect my life insurance premiums?",
+        "answer": "Life insurance premiums are determined by factors including your age, health status, lifestyle habits (smoking, drinking), occupation, hobbies, coverage amount, policy type, and family medical history. Younger, healthier individuals typically pay lower premiums."
+    },
+    {
+        "question": "What is the difference between HMO and PPO health plans?",
+        "answer": "HMO (Health Maintenance Organization) plans require you to choose a primary care physician and get referrals for specialists, typically offering lower costs but less flexibility. PPO (Preferred Provider Organization) plans offer more flexibility in choosing healthcare providers and don't require referrals, but usually have higher premiums and deductibles."
+    },
+    {
+        "question": "How does my credit score affect insurance rates?",
+        "answer": "Insurance companies often use credit scores as a factor in determining premiums because studies show a correlation between credit history and insurance claims. A higher credit score typically results in lower insurance rates, while a lower score may lead to higher premiums."
+    },
+    {
+        "question": "What is umbrella insurance and do I need it?",
+        "answer": "Umbrella insurance provides additional liability coverage beyond your standard auto, home, or boat insurance policies. It's recommended if you have significant assets to protect, own rental properties, have teenage drivers, or engage in activities that increase liability risk."
+    },
+    {
+        "question": "How do deductibles work in insurance?",
+        "answer": "A deductible is the amount you pay out-of-pocket before your insurance coverage kicks in. Higher deductibles typically result in lower premium costs, while lower deductibles mean higher premiums but less out-of-pocket expense when filing a claim."
+    },
+    {
+        "question": "What is the grace period for insurance premium payments?",
+        "answer": "Most insurance policies have a grace period of 10-31 days after the due date during which you can make your premium payment without losing coverage. The exact grace period varies by insurer and policy type, so check your policy documents for specific terms."
+    },
+    {
+        "question": "Can I cancel my insurance policy at any time?",
+        "answer": "Generally, you can cancel most insurance policies at any time, though some may have cancellation fees or require advance notice. You may be entitled to a refund of unused premium, but terms vary by insurer and policy type. Always review your policy's cancellation clause."
+    },
+    {
+        "question": "What is co-insurance in health insurance?",
+        "answer": "Co-insurance is the percentage of costs you share with your insurance company after meeting your deductible. For example, with 80/20 co-insurance, your insurer pays 80% of covered expenses and you pay 20%, until you reach your out-of-pocket maximum."
+    },
+    {
+        "question": "How do I lower my auto insurance premiums?",
+        "answer": "You can lower auto insurance premiums by maintaining a clean driving record, increasing deductibles, bundling policies, taking defensive driving courses, installing safety features, parking in secure locations, and regularly shopping for competitive rates."
+    },
+    {
+        "question": "What is actual cash value versus replacement cost?",
+        "answer": "Actual cash value (ACV) pays the depreciated value of an item at the time of loss, while replacement cost coverage pays the amount needed to replace the item with a new one of similar kind and quality, without deducting for depreciation."
+    },
+    {
+        "question": "Do I need flood insurance if I have homeowners insurance?",
+        "answer": "Standard homeowners insurance typically does not cover flood damage. Flood insurance is a separate policy available through the National Flood Insurance Program (NFIP) or private insurers, and is highly recommended even if you're not in a high-risk flood zone."
+    },
+    {
+        "question": "What is a waiting period in insurance?",
+        "answer": "A waiting period is the time between when you purchase a policy or add coverage and when that coverage becomes effective. This prevents people from purchasing insurance only after they know they need to file a claim, and varies by insurance type and specific coverage."
+    },
+    {
+        "question": "How does bundling insurance policies save money?",
+        "answer": "Bundling multiple insurance policies (auto, home, life) with the same insurer often provides discounts ranging from 5-25%. Insurers offer these multi-policy discounts to retain customers and reduce their marketing costs, passing some savings to policyholders."
+    },
+    {
+        "question": "What should I do immediately after a car accident?",
+        "answer": "After a car accident, ensure safety first, call 911 if there are injuries, exchange information with other drivers, document the scene with photos, contact your insurance company, avoid admitting fault, and seek medical attention even for minor injuries."
+    },
+    {
+        "question": "What is professional liability insurance?",
+        "answer": "Professional liability insurance, also called errors and omissions (E&O) insurance, protects professionals against claims of negligence, errors, or omissions in their professional services. It's essential for doctors, lawyers, consultants, and other service providers."
+    },
+    {
+        "question": "How do insurance companies determine claim settlements?",
+        "answer": "Insurance companies determine claim settlements by investigating the claim, assessing damages, reviewing policy coverage limits and exclusions, considering applicable deductibles, and evaluating liability. They may use adjusters, appraisers, and industry databases to determine fair settlement amounts."
+    },
+    {
+        "question": "What is the difference between term and whole life insurance?",
+        "answer": "Term life insurance provides coverage for a specific period (10, 20, 30 years) at lower premiums but has no cash value. Whole life insurance provides permanent coverage with higher premiums but builds cash value that you can borrow against or withdraw."
+    },
+    {
+        "question": "Can my insurance company drop me after I file a claim?",
+        "answer": "While insurance companies generally cannot drop you solely for filing a single claim, they may non-renew your policy for multiple claims, policy violations, or non-payment. However, they must provide proper notice and cannot cancel mid-term without valid reasons like fraud or non-payment."
+    },
+    {
+        "question": "What is collision coverage in auto insurance?",
+        "answer": "Collision coverage pays for damage to your vehicle when it collides with another vehicle or object, regardless of who is at fault. This coverage is typically required if you have a car loan or lease, and the amount paid is based on your vehicle's actual cash value minus your deductible."
+    },
+    {
+        "question": "How much life insurance do I need?",
+        "answer": "The amount of life insurance needed varies by individual circumstances, but a common rule of thumb is 10-12 times your annual income. Consider factors like outstanding debts, mortgage, children's education costs, spouse's income, and final expenses when determining coverage amount."
+    },
+    {
+        "question": "What is workers' compensation insurance?",
+        "answer": "Workers' compensation insurance provides medical benefits and wage replacement to employees injured in the course of employment. It's typically required by law for most employers and protects both employees from workplace injuries and employers from potential lawsuits."
+    },
+    {
+        "question": "What does homeowners insurance typically not cover?",
+        "answer": "Standard homeowners insurance typically excludes floods, earthquakes, normal wear and tear, intentional damage, business activities, certain high-value items without additional coverage, and maintenance issues. Separate policies or endorsements may be needed for these exclusions."
+    },
+    {
+        "question": "What is the difference between a copay and coinsurance?",
+        "answer": "A copay is a fixed amount you pay for covered services (like $20 for a doctor visit), while coinsurance is a percentage of the cost you pay after meeting your deductible. Copays are predictable, while coinsurance varies based on the total cost of services."
+    },
+    {
+        "question": "How does age affect insurance premiums?",
+        "answer": "Age significantly impacts insurance premiums across different types. Life and health insurance generally increase with age due to higher risk, while auto insurance is typically higher for very young and very old drivers. Homeowners insurance is less affected by age but may consider the age of the home."
+    },
+    {
+        "question": "What is gap insurance for vehicles?",
+        "answer": "Gap insurance covers the difference between what you owe on your auto loan or lease and the car's actual cash value if it's totaled or stolen. This is particularly important for new cars that depreciate quickly or when you have a small down payment."
+    },
+    {
+        "question": "What is a health savings account (HSA)?",
+        "answer": "A Health Savings Account is a tax-advantaged account available to people with high-deductible health plans. Contributions are tax-deductible, funds grow tax-free, and withdrawals for qualified medical expenses are tax-free. Unused funds roll over year to year."
+    },
+    {
+        "question": "What is renters insurance and what does it cover?",
+        "answer": "Renters insurance protects your personal belongings, provides liability coverage, and covers additional living expenses if your rental becomes uninhabitable. It typically covers theft, fire, vandalism, and certain natural disasters, but excludes floods and earthquakes."
+    },
+    {
+        "question": "How do I choose the right insurance agent or broker?",
+        "answer": "Choose an insurance agent or broker by checking their licenses, asking about their experience with your insurance needs, comparing quotes from multiple sources, reading reviews, understanding their fee structure, and ensuring they represent reputable insurance companies."
+    },
+    {
+        "question": "What is business interruption insurance?",
+        "answer": "Business interruption insurance covers lost income and operating expenses when your business cannot operate due to a covered peril like fire, storm, or other disasters. It helps maintain cash flow during the recovery period and typically covers lost profits and fixed expenses."
+    },
+    {
+        "question": "What is the difference between liability and full coverage auto insurance?",
+        "answer": "Liability coverage only pays for damage you cause to others and their property, meeting minimum legal requirements. Full coverage typically includes liability, collision, and comprehensive coverage, protecting your own vehicle as well as providing liability protection."
+    },
+    {
+        "question": "What is universal life insurance?",
+        "answer": "Universal life insurance is a type of permanent life insurance with flexible premiums and death benefits. It builds cash value that earns interest, allows you to adjust premium payments and coverage amounts, and provides investment options within the policy."
+    },
+    {
+        "question": "How do pre-existing conditions affect health insurance?",
+        "answer": "Under the Affordable Care Act, health insurance companies cannot deny coverage or charge higher premiums based on pre-existing conditions. However, some short-term or limited plans may still have restrictions, so it's important to understand your specific policy terms."
+    },
+    {
+        "question": "What is cyber liability insurance?",
+        "answer": "Cyber liability insurance protects businesses against internet-based risks and data breaches. It covers costs related to data recovery, customer notification, legal fees, regulatory fines, and business interruption caused by cyber attacks or data breaches."
+    },
+    {
+        "question": "What factors determine homeowners insurance rates?",
+        "answer": "Homeowners insurance rates are determined by location, home value and age, construction materials, claims history, credit score, coverage amounts, deductible levels, safety features, and proximity to fire stations and water sources."
+    },
+    {
+        "question": "What is key person insurance?",
+        "answer": "Key person insurance is life or disability insurance purchased by a business on a crucial employee whose death or disability would significantly impact the company's operations or profits. The business pays premiums and receives benefits to help cover financial losses."
+    },
+    {
+        "question": "How does marriage affect insurance rates?",
+        "answer": "Marriage often leads to lower insurance rates, particularly for auto and life insurance, as married individuals are statistically considered lower risk. You may also benefit from multi-policy discounts when combining coverage and potentially better health insurance options through your spouse's employer."
+    },
+    {
+        "question": "What is directors and officers (D&O) insurance?",
+        "answer": "D&O insurance protects company directors and officers from personal losses if they are sued for alleged wrongful acts in their managerial capacity. It covers legal fees, settlements, and judgments, and is essential for publicly traded companies and nonprofits."
+    },
+    {
+        "question": "What is the elimination period in disability insurance?",
+        "answer": "The elimination period in disability insurance is the waiting time between when you become disabled and when benefits begin. Common periods are 30, 60, 90, or 180 days. Longer elimination periods typically result in lower premiums."
+    },
+    {
+        "question": "What is inland marine insurance?",
+        "answer": "Inland marine insurance covers movable property and goods in transit over land. Despite its name, it has nothing to do with water. It's commonly used for construction equipment, fine arts, jewelry, and other valuable items that standard property policies may not fully cover."
+    },
+    {
+        "question": "How do I file a life insurance claim?",
+        "answer": "To file a life insurance claim, contact the insurance company promptly, complete claim forms, provide a certified copy of the death certificate, submit any required medical records, and provide beneficiary identification. The process typically takes 30-60 days once all documents are received."
+    },
+    {
+        "question": "What is product liability insurance?",
+        "answer": "Product liability insurance protects manufacturers, distributors, and retailers against claims arising from defective products that cause injury or property damage. It covers legal defense costs, settlements, and judgments related to product-related lawsuits."
+    },
+    {
+        "question": "What is the cash surrender value of a life insurance policy?",
+        "answer": "Cash surrender value is the amount of money you receive if you cancel a permanent life insurance policy before death or maturity. It's the cash value minus any surrender charges or outstanding loans against the policy."
+    },
+    {
+        "question": "What is employment practices liability insurance?",
+        "answer": "Employment practices liability insurance (EPLI) protects businesses against claims by employees alleging discrimination, harassment, wrongful termination, or other employment-related issues. It covers legal defense costs and settlements or judgments."
+    },
+    {
+        "question": "How do I determine if I have enough insurance coverage?",
+        "answer": "Regularly review your coverage by assessing life changes, reviewing policy limits against current asset values, conducting annual insurance reviews with your agent, considering inflation impacts, and ensuring coverage matches your current needs and financial situation."
+    },
+    {
+        "question": "What is errors and omissions insurance?",
+        "answer": "Errors and omissions (E&O) insurance, also called professional liability insurance, protects professionals against claims of inadequate work or negligent actions. It's essential for consultants, real estate agents, insurance agents, and other service providers."
+    },
+    {
+        "question": "What is the difference between actual cash value and agreed value?",
+        "answer": "Actual cash value pays the depreciated value of property at the time of loss, while agreed value is a predetermined amount you and the insurer agree upon when purchasing the policy. Agreed value policies are common for classic cars and unique items."
+    },
+    {
+        "question": "What is commercial general liability insurance?",
+        "answer": "Commercial general liability (CGL) insurance protects businesses against third-party claims for bodily injury, property damage, and personal/advertising injury. It's fundamental business coverage that helps protect against lawsuits and claims arising from business operations."
+    },
+    {
+        "question": "How do smoking and tobacco use affect life insurance?",
+        "answer": "Smoking and tobacco use significantly increase life insurance premiums, often doubling or tripling costs compared to non-smokers. Some insurers may decline coverage for heavy smokers. If you quit smoking, you may qualify for non-smoker rates after 12-24 months."
+    },
+    {
+        "question": "What is personal injury protection (PIP) in auto insurance?",
+        "answer": "Personal Injury Protection covers medical expenses, lost wages, and other related costs for you and your passengers regardless of who caused the accident. PIP is required in no-fault states and optional in others, providing immediate coverage without waiting for fault determination."
+    },
+    {
+        "question": "What is travel insurance and what does it cover?",
+        "answer": "Travel insurance covers unexpected events during trips, including trip cancellation, medical emergencies abroad, lost luggage, flight delays, and emergency evacuation. Coverage varies by policy, but it provides financial protection against travel-related risks and expenses."
+    },
+    {
+        "question": "How do I choose between HMO, PPO, and EPO health plans?",
+        "answer": "Choose based on your priorities: HMO for lower costs and coordinated care with less flexibility; PPO for maximum flexibility and out-of-network options with higher costs; EPO for moderate costs and flexibility within network but no out-of-network coverage except emergencies."
+    },
+    {
+        "question": "What is mortgage protection insurance?",
+        "answer": "Mortgage protection insurance is decreasing term life insurance designed to pay off your mortgage if you die. The death benefit decreases as your mortgage balance decreases. Regular term life insurance often provides better value and more flexibility."
+    },
+    {
+        "question": "What is builders risk insurance?",
+        "answer": "Builders risk insurance covers buildings under construction against risks like fire, theft, vandalism, and weather damage. It's temporary coverage that protects the structure, materials, and equipment during construction and is typically required by lenders for construction loans."
+    },
+    {
+        "question": "How does my driving record affect auto insurance rates?",
+        "answer": "Your driving record significantly impacts auto insurance rates. Violations like speeding tickets, accidents, and DUIs increase premiums substantially. Most violations affect rates for 3-5 years, while serious offenses like DUI can impact rates for up to 10 years or result in coverage denial."
+    },
+    {
+        "question": "What is long-term care insurance?",
+        "answer": "Long-term care insurance covers costs of extended care services like nursing homes, assisted living, and in-home care that health insurance typically doesn't cover. It's designed to protect assets and provide care options when you can't perform daily living activities independently."
+    },
+    {
+        "question": "What is the coordination of benefits in health insurance?",
+        "answer": "Coordination of benefits (COB) determines which insurance plan pays first when you have coverage under multiple policies. The primary plan pays first up to its limits, then the secondary plan may cover remaining costs, preventing overpayment and ensuring proper claim processing."
+    },
+    {
+        "question": "What is terrorism insurance?",
+        "answer": "Terrorism insurance covers property damage and business interruption losses from certified acts of terrorism. It's available as an endorsement to commercial property policies and became important after 9/11. Coverage terms and availability vary by location and risk assessment."
+    },
+    {
+        "question": "How do I appeal an insurance claim denial?",
+        "answer": "To appeal a claim denial, review the denial letter for specific reasons, gather supporting documentation, file a formal appeal within the specified timeframe, consider involving your agent or an attorney, and contact your state insurance commissioner if the internal appeal is unsuccessful."
+    },
+    {
+        "question": "What is excess and surplus lines insurance?",
+        "answer": "Excess and surplus lines insurance covers risks that standard insurance companies won't insure due to their unusual nature or high risk. These specialized insurers are not subject to standard rate and form regulations, allowing them to provide coverage for unique or high-risk situations."
+    },
+    {
+        "question": "What is the difference between captive and independent insurance agents?",
+        "answer": "Captive agents represent one insurance company and sell only that company's products, often providing deep expertise in those products. Independent agents represent multiple insurers, offering more choice and the ability to shop around for the best coverage and rates."
+    },
+    {
+        "question": "What is pet insurance and is it worth it?",
+        "answer": "Pet insurance covers veterinary costs for accidents, illnesses, and sometimes routine care. It's worth considering for purebred pets prone to health issues, pet owners who want predictable costs, or those who would struggle with large unexpected vet bills. Coverage and costs vary significantly."
+    },
+    {
+        "question": "What is the difference between occurrence and claims-made liability policies?",
+        "answer": "Occurrence policies cover claims arising from incidents that occurred during the policy period, regardless of when the claim is filed. Claims-made policies only cover claims filed during the policy period, requiring extended reporting periods for incidents that occurred before the policy ended."
+    },
+    {
+        "question": "What is business owners policy (BOP)?",
+        "answer": "A Business Owners Policy combines general liability and commercial property insurance into one package, often including business interruption coverage. It's designed for small to medium businesses and typically costs less than purchasing separate policies while providing comprehensive protection."
+    },
+    {
+        "question": "How do I calculate how much disability insurance I need?",
+        "answer": "Calculate disability insurance needs by determining 60-70% of your gross monthly income, considering existing coverage through employers or Social Security, factoring in fixed monthly expenses, and accounting for inflation protection. Most insurers limit coverage to 60-80% of income to encourage return to work."
+    },
+    {
+        "question": "What is title insurance and why do I need it?",
+        "answer": "Title insurance protects against financial loss from defects in a property's title, such as liens, encumbrances, or ownership disputes. Lender's title insurance protects the mortgage lender, while owner's title insurance protects the buyer. It's a one-time premium paid at closing."
+    },
+    {
+        "question": "What is the difference between replacement cost and guaranteed replacement cost?",
+        "answer": "Replacement cost coverage pays to rebuild or replace property with materials of similar kind and quality at current prices. Guaranteed replacement cost coverage goes beyond the policy limit to fully rebuild your home, even if costs exceed the coverage limit due to inflation or other factors."
+    },
+    {
+        "question": "What is valuable items coverage?",
+        "answer": "Valuable items coverage, also called scheduled personal property coverage, provides additional insurance for high-value items like jewelry, art, antiques, or collectibles that exceed standard policy limits. Items are individually listed and appraised, with coverage based on agreed values."
+    },
+    {
+        "question": "How does bankruptcy affect my insurance?",
+        "answer": "Bankruptcy may impact insurance by affecting your credit score, which can increase premiums. Some insurers may non-renew policies, though they typically cannot cancel mid-term solely due to bankruptcy. You may need to shop for new coverage, and some insurers specialize in high-risk situations."
+    },
+    {
+        "question": "What is medical malpractice insurance?",
+        "answer": "Medical malpractice insurance protects healthcare professionals against claims of professional negligence resulting in patient injury or death. It covers legal defense costs, settlements, and judgments. Coverage limits, terms, and costs vary significantly based on specialty and location."
+    },
+    {
+        "question": "What is the difference between admitted and non-admitted insurance carriers?",
+        "answer": "Admitted carriers are licensed and regulated by state insurance departments, must follow state laws and contribute to guarantee funds. Non-admitted carriers are not licensed in the state where coverage is provided, offer more flexibility but lack guarantee fund protection if the insurer becomes insolvent."
+    },
+    {
+        "question": "What is crop insurance?",
+        "answer": "Crop insurance protects farmers against loss of crops due to weather, disease, or other covered perils. It's subsidized by the federal government and available through approved insurance providers. Coverage includes both yield losses and revenue protection based on commodity prices."
+    },
+    {
+        "question": "How do I handle insurance after a divorce?",
+        "answer": "After divorce, review all insurance policies to update beneficiaries, remove ex-spouse from auto and homeowners policies if appropriate, consider COBRA for health insurance continuation, evaluate life insurance needs and ownership, and ensure adequate coverage for changed financial circumstances."
+    },
+    {
+        "question": "What is aggregate coverage in insurance?",
+        "answer": "Aggregate coverage is the maximum amount an insurance policy will pay for all claims during a policy period, typically one year. Once the aggregate limit is reached, the policy provides no further coverage until the policy renews, regardless of individual claim limits."
+    },
+    {
+        "question": "What is subrogation in insurance?",
+        "answer": "Subrogation is the insurer's right to pursue recovery from responsible third parties after paying a claim. For example, if another driver causes an accident, your insurer may pay your claim then seek reimbursement from the at-fault driver's insurance company."
+    },
+    {
+        "question": "What is hull insurance for boats?",
+        "answer": "Hull insurance covers physical damage to your boat's structure, machinery, and equipment from perils like collision, theft, fire, or weather. It's similar to comprehensive and collision coverage for cars and typically covers the agreed value or actual cash value of the vessel."
+    },
+    {
+        "question": "How do I choose an insurance deductible amount?",
+        "answer": "Choose a deductible you can comfortably afford to pay out-of-pocket in case of a claim. Higher deductibles lower your premiums but increase your financial responsibility. Consider your emergency fund, claim frequency, and premium savings when selecting deductible amounts."
+    },
+    {
+        "question": "What is aviation insurance?",
+        "answer": "Aviation insurance covers aircraft and aviation-related risks, including hull coverage for physical damage to aircraft, liability coverage for injury or property damage to third parties, and coverage for passengers. Rates depend on pilot experience, aircraft type, and intended use."
+    },
+    {
+        "question": "What is the difference between a warranty and insurance?",
+        "answer": "A warranty is a guarantee by the manufacturer or seller about product quality and performance, typically covering defects and malfunctions. Insurance is a contract that provides financial protection against specified risks. Warranties are included with products, while insurance requires separate purchase and premiums."
+    },
+    {
+        "question": "What is kidnap and ransom insurance?",
+        "answer": "Kidnap and ransom insurance covers costs associated with kidnapping, extortion, or wrongful detention. It typically includes ransom payments, negotiation expenses, legal fees, and crisis management services. Coverage is common for executives, wealthy individuals, and businesses operating in high-risk areas."
+    },
+    {
+        "question": "How does weather affect insurance claims and premiums?",
+        "answer": "Severe weather increases insurance claims, leading to higher premiums in affected areas. Insurers use catastrophe modeling to assess risk and price policies accordingly. Climate change and increasing severe weather patterns are causing many insurers to raise rates or restrict coverage in high-risk areas."
+    },
+    {
+        "question": "What is fiduciary liability insurance?",
+        "answer": "Fiduciary liability insurance protects individuals and organizations that manage employee benefit plans against claims of breaching fiduciary duties. It covers legal defense costs and damages from lawsuits alleging mismanagement of pension, 401(k), or other employee benefit plans."
+    },
+    {
+        "question": "What is the difference between collision and comprehensive coverage?",
+        "answer": "Collision coverage pays for damage to your vehicle from collisions with other vehicles or objects. Comprehensive coverage pays for damage from non-collision events like theft, vandalism, fire, falling objects, or weather. Both are optional unless required by a lender."
+    },
+    {
+        "question": "What is social inflation in insurance?",
+        "answer": "Social inflation refers to the rise in insurance claim costs that exceeds economic inflation, often driven by increased litigation, higher jury awards, broader definitions of liability, and changing social attitudes toward lawsuits. It affects liability insurance pricing and availability."
+    },
+    {
+        "question": "What is mobile home insurance?",
+        "answer": "Mobile home insurance covers manufactured homes against perils like fire, theft, wind, and liability claims. Coverage is similar to homeowners insurance but specific to mobile homes. Policies may cover the structure, personal property, additional living expenses, and liability protection."
+    },
+    {
+        "question": "How do I insure a classic or antique car?",
+        "answer": "Classic car insurance requires agreed value coverage based on the car's appraised value, usage restrictions like mileage limits or storage requirements, and often requires the owner to have a regular-use vehicle. Premiums are typically lower than standard auto insurance due to limited use."
+    },
+    {
+        "question": "What is earthquake insurance?",
+        "answer": "Earthquake insurance covers damage from earthquakes, which is typically excluded from standard homeowners and commercial property policies. Coverage includes dwelling, personal property, and additional living expenses. Deductibles are usually percentage-based rather than fixed dollar amounts."
+    },
+    {
+        "question": "What is the role of an insurance adjuster?",
+        "answer": "Insurance adjusters investigate claims, assess damages, interview parties involved, review policy coverage, determine liability, and recommend claim settlements. They may be staff adjusters (employees of the insurance company), independent adjusters (contractors), or public adjusters (hired by policyholders)."
+    },
+    {
+        "question": "What is vicarious liability insurance?",
+        "answer": "Vicarious liability coverage protects against liability for the actions of others, such as employees acting within their job scope or family members using your vehicle. It's typically included in general liability and auto insurance policies but may require specific endorsements in some situations."
+    },
+    {
+        "question": "How do I insure jewelry and other valuables?",
+        "answer": "Insure valuable jewelry through scheduled personal property coverage, which requires professional appraisals and provides broader coverage than standard homeowners limits. Coverage typically includes mysterious disappearance and may not require a deductible. Update appraisals regularly to maintain adequate coverage."
+    },
+    {
+        "question": "What is commercial auto insurance?",
+        "answer": "Commercial auto insurance covers vehicles used for business purposes, providing liability, physical damage, and other coverages. It differs from personal auto insurance in coverage limits, policy terms, and pricing. Coverage needs vary based on vehicle type, business use, and number of drivers."
+    },
+    {
+        "question": "What is the difference between primary and excess insurance?",
+        "answer": "Primary insurance provides the first layer of coverage and responds to claims up to its policy limits. Excess insurance provides additional coverage above the primary policy limits, only paying after the primary coverage is exhausted. Umbrella policies are a common form of excess coverage."
+    },
+    {
+        "question": "What is equipment breakdown insurance?",
+        "answer": "Equipment breakdown insurance, also called boiler and machinery insurance, covers sudden and accidental breakdown of covered equipment like boilers, air conditioning systems, computers, and production machinery. It typically covers repair costs, business interruption, and expediting expenses."
+    },
+    {
+        "question": "How do I calculate business interruption insurance needs?",
+        "answer": "Calculate business interruption needs by determining gross earnings (revenue minus variable expenses), estimating recovery time after different scenarios, considering extra expenses to maintain operations, and factoring in seasonal variations. Coverage should reflect your business's financial vulnerability during downtime."
+    },
+    {
+        "question": "What is mortgage insurance and when is it required?",
+        "answer": "Mortgage insurance protects lenders against default and is typically required for conventional loans with less than 20% down payment (PMI) or for all FHA loans (MIP). It allows borrowers to purchase homes with smaller down payments but adds to monthly housing costs."
+    },
+    {
+        "question": "What is the difference between life insurance and annuities?",
+        "answer": "Life insurance provides death benefits to beneficiaries when the insured dies, offering financial protection for dependents. Annuities provide income payments during the annuitant's lifetime, offering protection against outliving your money. Some products combine features of both insurance and annuities."
+    },
+    {
+        "question": "What is cyber security insurance for individuals?",
+        "answer": "Personal cyber insurance protects individuals against identity theft, cyber fraud, data breach response costs, and cyberbullying. Coverage may include credit monitoring, legal assistance, lost wages from dealing with identity theft, and funds stolen through electronic fraud."
+    },
+    {
+        "question": "How do I determine liability coverage limits?",
+        "answer": "Determine liability limits based on your net worth, potential income loss from lawsuits, state minimum requirements, and risk tolerance. Consider higher limits if you have significant assets, engage in high-risk activities, or have teenage drivers. Umbrella policies provide cost-effective additional protection."
+    },
+    {
+        "question": "What is parametric insurance?",
+        "answer": "Parametric insurance pays predetermined amounts based on specific measurable parameters (like wind speed or earthquake magnitude) rather than actual losses. It provides faster payouts since there's no loss adjustment process, making it useful for catastrophic events where quick liquidity is essential."
+    }
+]

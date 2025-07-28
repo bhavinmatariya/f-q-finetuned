@@ -1,0 +1,82 @@
+LLM Fine-tuning Evaluation Report
+================================================================================
+
+Question 1:
+What does comprehensive coverage include?
+--------------------------------------------------------------------------------
+Before Fine-tuning:
+You are a helpful insurance expert assistant. Answer the following question about insurance clearly and accurately.
+
+What does comprehensive coverage include? 
+
+Comprehensive coverage is a type of insurance that provides protection against a wide range of potential losses or damages, beyond what is covered under a basic auto or property insurance policy. Here are some of the common elements typically included in comprehensive coverage:
+
+1. Collision damage: This covers the cost of repairs or replacement of your vehicle if it is damaged in an accident, regardless of who is at fault.
+
+2. Theft: Comprehensive coverage includes protection against theft of your vehicle or damage caused by attempting to steal it.
+
+3. Vandalism: This covers the cost of repairs or replacement if your vehicle is vandalized, including damage to the windows, paint, or interior.
+
+4. Natural disasters: Comprehensive coverage may also cover damage caused by natural disasters such as floods, hurricanes, hail, or earthquakes.
+
+5. Fire and explosions: This covers the cost of repairs or
+
+After Fine-tuning:
+You are a helpful insurance expert assistant. Answer the following question about insurance clearly and accurately.
+
+What does comprehensive coverage include? 
+-> Comprehensive auto insurance coverage typically includes damage from non-collision events such as theft, vandalism, fire, natural disasters, falling objects, and animal strikes. It typically covers the actual cash value of your vehicle minus your deductible. Coverage may vary by insurer and policy, so check your specific policy for details.
+================================================================================
+
+Question 2:
+How do I start a property damage claim?
+--------------------------------------------------------------------------------
+Before Fine-tuning:
+You are a helpful insurance expert assistant. Answer the following question about insurance clearly and accurately.
+
+How do I start a property damage claim?
+
+Starting a property damage claim with an insurance company involves several steps to ensure a smooth and efficient process. Here's a simple guide to help you get started:
+
+1. **Safety first:** Make sure you and anyone involved are safe before taking any action. If necessary, contact emergency services for help.
+
+2. **Document the damage:** Take detailed photos or videos of the damaged property, including all angles and close-ups. Try to capture any visible damage, such as cracks, water damage, or broken items.
+
+3. **Gather information:** Make a list of all damaged items and their estimated value, including receipts, serial numbers, or any other relevant information. Also, collect contact information for any witnesses and take down details about the incident, such as date, time, and location.
+
+4. **Contact your insurance company:** Reach out to your insurance provider as soon as possible to report the claim. You can usually do
+
+After Fine-tuning:
+You are a helpful insurance expert assistant. Answer the following question about insurance clearly and accurately.
+
+How do I start a property damage claim?
+-> To start a property damage claim, contact your insurance company immediately, document the damage with photos, obtain a police report if applicable, keep receipts for temporary repairs, and cooperate with the claims adjuster during the investigation process. Your policy may require specific steps, so review your coverage carefully.
+================================================================================
+
+Question 3:
+What affects life insurance costs?
+--------------------------------------------------------------------------------
+Before Fine-tuning:
+You are a helpful insurance expert assistant. Answer the following question about insurance clearly and accurately.
+
+What affects life insurance costs?Life insurance costs, also known as premiums, are influenced by several factors. Here are some of the most common factors that affect life insurance costs:
+
+1. Age: Younger people typically pay less for life insurance because they have a longer expected lifespan. As you get older, the cost of life insurance increases.
+
+2. Gender: Men typically pay more for life insurance than women because they have a shorter life expectancy on average.
+
+3. Health: Applicants with poor health or pre-existing medical conditions may be charged higher premiums or may be denied coverage altogether.
+
+4. Lifestyle: Your lifestyle choices, such as smoking, drinking, or engaging in dangerous hobbies, can increase your life insurance premiums.
+
+5. Coverage amount: The amount of coverage you need will also affect your premiums. The larger the coverage amount, the higher the premium.
+
+6. Policy type: The type
+
+After Fine-tuning:
+You are a helpful insurance expert assistant. Answer the following question about insurance clearly and accurately.
+
+What affects life insurance costs?
+-> Life insurance costs are determined by factors including your age, health status, lifestyle habits (smoking, drinking), occupation, hobbies, coverage amount, policy type, and family medical history. Younger, healthier individuals typically pay lower premiums.
+================================================================================
+
